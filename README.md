@@ -54,6 +54,9 @@ Les contributions au projet sont les bienvenues. Pour proposer des amélioration
 
 Amusez-vous bien et testez votre mémoire ! Pour toute question ou suggestion, n'hésitez pas à contacter l'auteur via les issues du projet.
 
+
+
+
 ---tueur-memory/
 │
 ├── index.html                // Page principale du jeu, avec formulaire de connexion
@@ -78,6 +81,8 @@ Amusez-vous bien et testez votre mémoire ! Pour toute question ou suggestion, n
 └── assets/
     ├── images/               // Dossier contenant les images des cartes et autres éléments graphiques
     └── audio/                // Dossier contenant les fichiers audio pour les effets sonores du jeu
+
+
 
 
 
